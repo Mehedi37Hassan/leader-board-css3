@@ -1,0 +1,26 @@
+/* common styles */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* top players styles */
+.top-players{
+    
+
+}
+.players{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+}
+.player{
+    display: flex;
+    align-items: center
+}
+.player img{
+    width: 56px;
+    height: 56px;
+}
+.player h3{
+    
+}
